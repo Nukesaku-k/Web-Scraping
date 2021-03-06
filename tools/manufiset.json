@@ -1,0 +1,46 @@
+{
+  "name": "子ども・学生の習い事なら、横浜市金沢区【のりこヴァイオリン教室♪】",
+  "short_name": "子ども・学生の習い事なら、横浜市金沢区【のりこヴァイオリン教室♪】",
+  "icons": [{
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_512,w_512,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_192,w_192,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_144,w_144,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_96,w_96,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_72,w_72,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "72x72"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_64,w_64,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "64x64"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_48,w_48,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_36,w_36,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "36x36"
+  }, {
+    "src": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_16,w_16,f_auto,q_auto/1158052/music_violin_yzezqg.png",
+    "type": "image/png",
+    "sizes": "16x16"
+  }],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}

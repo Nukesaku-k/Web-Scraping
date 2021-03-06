@@ -10,3 +10,6 @@
 
 ## Scraping×Selenume
 - tools/headress_scraping.py
+
+## Environment
+- pipenv

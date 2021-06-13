@@ -2,6 +2,7 @@
 # coding: UTF-8
 
 from bs4 import BeautifulSoup
+import chromedriver_binary
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
@@ -17,7 +18,7 @@ options.headless = True
 driver = webdriver.Chrome(chrome_options=options)
 
 # ブラウザでアクセスする
-driver.get("XXXXXX")
+driver.get("https://www.nikkei.com/markets/kabu/")
 
 # HTMLを文字コードをUTF-8に変換してから取得します。
 html = driver.page_source.encode('utf-8')
@@ -25,5 +26,5 @@ html = driver.page_source.encode('utf-8')
 # BeautifulSoupで扱えるようにパースします
 soup = BeautifulSoup(html, "html.parser")
 
-# idがheikinの要素を表示
-print(soup.select_one("#heikin"))
+# classがmkc-stock_pricesの要素を表示
+print(soup.select_one(".mkc-stock_prices"))

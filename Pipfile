@@ -11,6 +11,7 @@ flake8 = "*"
 beautifulsoup4 = "*"
 feedparser = "*"
 selenium = "*"
+chromedriver-binary = "~=90.0"
 
 [requires]
 python_version = "3.8"

@@ -14,3 +14,6 @@
 ## Scraping running on aws lambda
 - /aws/lambda/app/headless_lambda.py
 - /aws/lambda/Dockerfile
+
+## Environment
+- pipenv

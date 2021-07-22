@@ -3,10 +3,14 @@
 # Description
 
 ## Simple & Basic Scraping
-- tools/simple_scraping.py
+- /simple_scraping.py
 
 ## RSS Scraping
-- tools/rss_scraping.py
+- /rss_scraping.py
 
 ## Scraping×Selenume
-- tools/headress_scraping.py
+- /headless_scraping.py
+
+## Scraping running on aws lambda
+- /aws/lambda/app/headless_lambda.py
+- /aws/lambda/Dockerfile
